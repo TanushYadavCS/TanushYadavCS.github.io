@@ -17,7 +17,7 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: #000;
+  background-color: #ffff;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
@@ -48,7 +48,7 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: black !important;
+    color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
     background-color: #fff;
 
