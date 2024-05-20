@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .masthead {
+  text-align: center;
   position: fixed;
   background: rgb(0, 0, 0);
   border-bottom: 1px solid $border-color;
@@ -39,6 +40,7 @@
 .masthead__menu {
 
   ul {
+    text-align: center;
     margin: 0;
     padding: 0;
     clear: both;
@@ -47,6 +49,9 @@
 }
 
 .masthead__menu-item {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   list-style-type: none;
   white-space: nowrap;

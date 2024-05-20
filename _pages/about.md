@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As a computer science undergraduate with a strong passion for machine learning and artificial intelligence, I am eager to gain hands-on experience and deepen my expertise in these cutting-edge fields. 
-I am particularly interested in roles that challenge me to apply my theoretical knowledge to real-world problems, collaborate with experienced professionals, and contribute to innovative projects. 
+Hi, I'm a computer science undergraduate with a keen interest in machine learning and artificial intelligence. I'm looking for opportunities to get real-world experience and deepen my skills in these exciting fields.
+I'm excited about the chance to join a team where I can grow, learn, and make a difference. If you're looking for someone who's enthusiastic about AI and ready to take on new challenges, let's connect!
