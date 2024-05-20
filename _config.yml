@@ -7,7 +7,7 @@
 # server process.
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Tanush Yadav"
 description              : &description "ML enthusiast"

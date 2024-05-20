@@ -336,7 +336,7 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: black;
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
@@ -376,13 +376,13 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: #000;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
