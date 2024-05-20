@@ -5,10 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Tanush Yadav's Homepage"
@@ -157,7 +153,6 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets
   - CHANGELOG
   - Capfile
   - Gemfile
