@@ -185,8 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: black;
-      background-color: white;
+      color: white;
     }
   }
 
@@ -235,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: black;
+        background: white;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -408,8 +407,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: white;
+      color: white;
+      background: black;
     }
   }
 
