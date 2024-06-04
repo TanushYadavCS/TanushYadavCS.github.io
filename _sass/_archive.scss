@@ -42,7 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-
+  color: #fff;  
   a + a {
     opacity: 0.5;
   }
@@ -90,6 +90,10 @@
    ========================================================================== */
 
 .list__item {
+  a{
+    color:#fff;
+    text-decoration: none;
+  }
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

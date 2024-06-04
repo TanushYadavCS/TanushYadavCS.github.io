@@ -1,12 +1,12 @@
 # main links links
 main:
 
-  - title: "Resume"
-    url: /teaching/    
+  - title: "CV"
+    url: /resume/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
