@@ -11,7 +11,7 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
+  color: #000 !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -119,10 +119,10 @@
   /* social buttons */
 
   $social:
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+  (facebook, #fff),
+  (twitter, #fff),
+  (google-plus, #fff),
+  (linkedin, #fff);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
