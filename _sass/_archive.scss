@@ -4,7 +4,6 @@
 
 .archive {
   margin-bottom: 2em;
-
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
@@ -93,6 +92,7 @@
   color: #fff;
   a{
     color:#fff;
+    font-size: x-large;
     text-decoration: none;
   }
   @include breakpoint($medium) {
